@@ -68,12 +68,27 @@ h2{
     width: 50%;
     display: block;
 }
+#pro11{
+    height: 50%;
+    width: 50%;
+    display: block;
+}
+#pro12{
+    height: 50%;
+    width: 50%;
+    display: block;
+}
+#pro13{
+    height: 30%;
+    width: 30%;
+    display: block;
+}
 
 
 
 li{
     background-color: lightskyblue;
-    color: crimson;
+    color: navy;
     font-size: 22px;
     font-weight: bold;
     position: static;
